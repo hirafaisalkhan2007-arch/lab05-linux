@@ -1,0 +1,17 @@
+total 64
+drwxr-x--- 10 hirafaisalkhan2007-arch hirafaisalkhan2007-arch 4096 Oct 16 06:26 .
+drwxr-xr-x  3 root                    root                    4096 Sep 16 23:32 ..
+-rw-------  1 hirafaisalkhan2007-arch hirafaisalkhan2007-arch  394 Oct 10 11:52 .bash_history
+-rw-r--r--  1 hirafaisalkhan2007-arch hirafaisalkhan2007-arch  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 hirafaisalkhan2007-arch hirafaisalkhan2007-arch 3771 Feb 13  2026 .bashrc
+drwx------  3 hirafaisalkhan2007-arch hirafaisalkhan2007-arch 4096 Oct 10 14:02 .cache
+-rw-rw-r--  1 hirafaisalkhan2007-arch hirafaisalkhan2007-arch  240 Oct 16 06:26 .gitconfig
+-rw-------  1 hirafaisalkhan2007-arch hirafaisalkhan2007-arch   20 Oct 10 13:05 .lesshst
+drwx------  3 hirafaisalkhan2007-arch hirafaisalkhan2007-arch 4096 Oct 10 13:00 .local
+-rw-r--r--  1 hirafaisalkhan2007-arch hirafaisalkhan2007-arch  807 Feb 13  2026 .profile
+drwx------  2 hirafaisalkhan2007-arch hirafaisalkhan2007-arch 4096 Oct 16 06:24 .ssh
+drwxrwxr-x  3 hirafaisalkhan2007-arch hirafaisalkhan2007-arch 4096 Oct 10 13:48 Assignment01
+drwxrwxr-x  3 hirafaisalkhan2007-arch hirafaisalkhan2007-arch 4096 Oct 10 12:16 Gitea
+drwxrwxr-x  5 hirafaisalkhan2007-arch hirafaisalkhan2007-arch 4096 Oct 16 06:27 lab05-linux
+drwxrwxr-x  2 hirafaisalkhan2007-arch hirafaisalkhan2007-arch 4096 Sep 18 08:13 mylab
+drwxrwxr-x  3 hirafaisalkhan2007-arch hirafaisalkhan2007-arch 4096 Oct 10 14:52 portfolio
